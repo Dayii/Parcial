@@ -249,6 +249,16 @@
     <Content Include="Views\Friends\Details.cshtml" />
     <Content Include="Views\Friends\Edit.cshtml" />
     <Content Include="Views\Friends\Index.cshtml" />
+    <Content Include="Views\Friends1\Create.cshtml" />
+    <Content Include="Views\Friends1\Delete.cshtml" />
+    <Content Include="Views\Friends1\Details.cshtml" />
+    <Content Include="Views\Friends1\Edit.cshtml" />
+    <Content Include="Views\Friends1\Index.cshtml" />
+    <Content Include="Views\Friends2\Create.cshtml" />
+    <Content Include="Views\Friends2\Delete.cshtml" />
+    <Content Include="Views\Friends2\Details.cshtml" />
+    <Content Include="Views\Friends2\Edit.cshtml" />
+    <Content Include="Views\Friends2\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

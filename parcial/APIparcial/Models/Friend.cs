@@ -5,11 +5,12 @@ namespace APIparcial.Models
 {
     public enum TipoAmigo
     {
-        Conocido,
-        Compañero,
-        Colega,
-        AmigoDeInfancia,
-        Pariente
+        Conocido,               //0
+        Compañero,              //1
+        Colega,                 //2
+        Amigo,                  //3
+        AmigoDeInfancia,        //4
+        Pariente                //5
 
     }
 

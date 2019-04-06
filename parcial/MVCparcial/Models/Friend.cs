@@ -15,6 +15,7 @@ namespace MVCparcial.Models
 
     public class Friend
     {
+
         [Key]
         public int FriendId { get; set; }
 

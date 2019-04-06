@@ -13,6 +13,6 @@ namespace MVCparcial.Models
 
         }
 
-        public System.Data.Entity.DbSet<MVCparcial.Models.Friend> Friends { get; set; }
+
     }
 }
